@@ -1,0 +1,12 @@
+BasedOnStyle: LLVM
+AllowShortIfStatementsOnASingleLine: true
+AlwaysBreakTemplateDeclarations: true
+BraceWrapping:
+  AfterFunction: true
+  AfterControlStatement: false
+  SplitEmptyFunction: false
+BreakBeforeBraces: Custom
+BreakConstructorInitializers: BeforeComma
+ColumnLimit: 120
+ConstructorInitializerIndentWidth: 2
+SpaceAfterTemplateKeyword: false
