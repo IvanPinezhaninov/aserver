@@ -1,0 +1,19 @@
+BasedOnStyle: LLVM
+AlwaysBreakTemplateDeclarations: true
+BraceWrapping:
+  AfterFunction: true
+  AfterStruct: false
+  AfterClass: false
+  AfterNamespace: false
+  BeforeElse: false
+  BeforeCatch: false
+  IndentBraces: false
+  SplitEmptyFunction: false
+  SplitEmptyRecord: false
+  SplitEmptyNamespace: false
+  AfterControlStatement: false
+BreakBeforeBraces: Custom
+BreakConstructorInitializers: BeforeComma
+ColumnLimit: 120
+ConstructorInitializerIndentWidth: 2
+SpaceAfterTemplateKeyword: false
